@@ -1,0 +1,25 @@
+
+			body{
+				width:800px;
+				height:750px;
+				border:1px solid lightgray;
+				font-weight: bold;
+				//padding-left: 10px;
+			}
+			span{
+				margin-right:20px;
+			}
+			h1{
+				float:left;
+				height:750px;
+				margin-right:20px ;
+				margin-top: 0;
+				margin-left:0 ;
+				padding-left: 0;
+				color: white;
+				width:100px;
+				background: skyblue;
+				text-align: center;
+				line-height: 100px;
+			}
+		
